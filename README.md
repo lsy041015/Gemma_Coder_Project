@@ -1,8 +1,15 @@
 # 🚀 Agentic Terminal Coder (ATC)
 > **"Terminal-based Agentic Coding Assistant powered by Multi-LLM Rotation"**
 
-ATC는 터미널(TUI) 환경에서 작동하는 자율 코딩 에이전트입니다. Claude Code와 GPT Codex를 래퍼런스하였으며, 사용자가 정기 구독을 하지 않고 완전 무료로 사용할 수 있는 TOOL개발을 목표로 합니다.
-Google Gemini API와 GitHub Models API를 지능적으로 로테이션하여 **API 호출 제한 없이 24/7 개발을 지원**하며, 스킬(Skill) 기반의 반복적인 개선 루프를 통해 개발자의 생산성을 극대화합니다.
+PolyPivot Codex는 터미널(TUI) 환경에서 작동하는 자율 코딩 에이전트입니다. 
+Claude Code와 GPT Codex를 래퍼런스하였으며 상업적으로 사용할 의견이 전혀 없음을 먼저 밝힙니다.
+사용자가 정기 구독을 하지 않고 완전 무료로 사용할 수 있는 TOOL개발을 목표로 합니다.
+Google Gemini API와 GitHub Models API를 지능적으로 로테이션하여 **API 호출 제한 없이 24/7 개발을 지원**하며, 
+스킬(Skill) 기반의 반복적인 개선 루프를 통해 바이브 코딩을 더욱 편리하게 합니다.
+
+Claude code(Sonnet4.6), GPT Codex(GPT 5.5)와 벤치마크하여 성능을 비교하고 해당 도구들과 70%~80%정도의 성능을 구현하는 것이 이번 프로젝트의 목표입니다.
+7~80%의 성능을 내는 것이 무슨 의미가 있냐?라는 질문이 있다면, 월 22USD를 지불하며 사용하는 유료 결제 플랜과 조금 부족하지만 실사용 가능한 코딩 AI 에이전트가 생긴다는 것에 의미를 두겠습니다.
+
 
 ---
 
